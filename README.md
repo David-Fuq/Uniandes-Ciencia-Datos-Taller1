@@ -2,7 +2,7 @@
 
 ## Intergrantes del Equipo
 - David Fuquen - 202021113
-- Santiago Martinez - INSERT COQUI'S ID HERE
+- Santiago Martinez - INSERT COQUISAURUS' ID HERE
 
 ## Conclusiones (insights)
 
