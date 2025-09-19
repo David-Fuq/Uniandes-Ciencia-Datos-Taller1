@@ -1,2 +1,17 @@
-# Uniandes-Ciencia-Datos-Taller1
-Repositorio con el contenido solicitado para el taller 1 de Ciencia de Datos (MINE-4101)
+# Taller 1 - Ciencia de Datos (MAIA-4101)
+
+## Intergrantes del Equipo
+- David Fuquen - 202021113
+- Santiago Martinez - INSERT COQUI'S ID HERE
+
+## Conclusiones (insights)
+
+TODO !
+
+## Instrucciones de ejecución 
+
+TODO !
+
+## Dependencias
+
+TODO !
